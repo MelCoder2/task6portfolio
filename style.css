@@ -7,3 +7,12 @@
 #skills{
     margin: top 70px;
 }
+
+#home .container {
+    padding-top: 50px; /* Creates space inside the section */
+  }
+
+#about img {
+    max-width: 500px; /* Adjust size */
+    height: auto;     /* Keeps aspect ratio */
+  }
